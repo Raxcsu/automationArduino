@@ -1,0 +1,11 @@
+# Parámetros configurables
+
+# PARA MODIFICAR
+PH_MIN = 7.4
+PH_MAX = 7.5
+GPIO_RELAY = 17
+TIME_DELAY = 60
+
+# NO MODIFICAR
+SERIAL_PORT = '/dev/ttyUSB0'
+BAUDRATE = 9600
